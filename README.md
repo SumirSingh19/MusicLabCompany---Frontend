@@ -1,3 +1,19 @@
+# Code Structure
+  # Main App
+    - Header
+      - Side Bar
+      - Logo
+      - Nav-items
+    - Body
+       - Centered Image
+       - Different Cable type Row
+       - Description for Each
+    - Footer
+       - Instagram Link
+       - Two Columns for specific information
+       - Follow Us column
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
